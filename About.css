@@ -1,0 +1,310 @@
+*{
+	margin: 0;
+	padding: 0;
+    
+}
+
+.navbar-brand{
+	padding-left: 25px;
+}
+
+.signuplogin{
+	margin-left: 920px;
+}
+
+li a {
+	font-size: 17px;
+} 
+.navbar{
+	padding: 0 !important;
+	background-color: #2A73EC;
+
+}
+
+#navbar{
+	position: sticky;
+	top: 0;
+	z-index: 10;
+	width: 100%;
+}
+.navbar-nav li{
+	padding: 0 5px;
+} 
+
+.navbar-nav li a{
+      color: #fff !important;
+	  font-weight: 600px;
+
+}
+
+.jumbotron{
+	background-color: #5DAEF7;
+	color: white;
+	font-size: 20px;
+
+}
+.jumbotron h2{
+	font-size: 50px;
+}
+
+img{
+	height: 450px;
+	width: 100%;
+    margin-left: 0px;
+ }
+.firstabout{
+	margin-top: 50px;
+     width: 100%;
+   
+
+}
+.firstabout h3{
+ text-align: center;
+}
+.secondabout{
+	margin-top: 50px;
+	margin-bottom: 25px;
+    width: 100%;
+}
+
+.secondabout h3{
+    text-align: center;
+   
+}
+
+
+.aboutpara1{
+    padding: 70px 0px;
+    margin: 20px;
+    text-align: center;
+    width: 85%;
+   
+}
+ 
+.aboutpara2{
+    padding: 70px 0px;
+    margin: 20px;
+    text-align: center;
+    width: 85%;
+} 
+
+/*--------------------------------------*/
+.bottomimagebackground{
+    background-image: linear-gradient(to right,#67AAE7,#26A9E0);
+    height: 250px;
+    margin-top: 50px;
+}
+.bottom-img{
+	width: 100%;
+	margin-top: 70px;
+	padding-left: 0%;
+}
+
+
+
+
+/*======================================*/
+
+#contactus{
+    
+    background-color: aliceblue;
+    margin-top: 30px;
+
+
+}
+#contactus h2{
+    text-align: center;
+    margin-top: 20px;
+}
+.contactus .container{
+    margin: 0;
+    padding: 0;
+}
+.guideforcontact{
+    text-align: center;
+    margin-top: 10px;
+}
+
+#contactus .card{
+    width: 100%;
+    height: 200px;
+    text-align: center;
+    background-color:  #26A9E0;
+    margin: 20px auto;
+}
+#contactus .card img{
+    height: 100px;
+    width: 100px;
+    margin: 10px auto;
+
+}
+#contactus .card H4{
+    text-align: center;
+    margin-right: 0px;
+}
+#contactus .card a{
+    font-size: 25px;
+    color: black;
+}
+
+/* #contactus .logo{
+    margin: 20px auto;
+    width: 20%;
+    height: 100px;
+    
+}
+#contactus .logo a{
+
+    font-size: 50px;
+    color: black;
+    text-align: center;
+
+
+} */
+
+/* .contactways{
+    margin-bottom: -20px;
+    text-align: center;
+    font-weight: 650;
+}
+.contactinfo{
+    margin-bottom: -20px;
+    text-align: center;
+} */
+
+
+/* #contactus img{
+    height: 120px;
+    width: 80px;
+    
+} */
+
+/* #contactus .card-wrapper{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+   
+} */
+/* #contactus .card-wrapper .card{
+    text-align: center;
+    background-color: #65B0F2;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+#contactus .card-wrapper .card H4{
+    text-align: center;
+    margin-right: 0px;
+}
+*/
+
+
+
+/*-------------------------------------------*/
+
+
+
+
+div.main{
+    width: 35%;
+    margin: 30px auto 0px auto;
+}
+
+form label{
+    font-weight: 500;
+}
+form input{
+    padding: 3px;
+}
+
+form .submitbutton{
+    margin: 10px auto ;
+    background-color: #4887ec;
+    display: block;
+    color: white;
+
+
+}
+form .textarea{
+    height: 80px;
+    
+    margin: 0px auto;
+}
+
+
+.feedbackheading{
+    text-align: center;
+    margin-top: 40px;
+}
+
+
+
+/* ----------------Footer------------------------------ */
+#footer{
+    background-color: #040404 ;
+    color: white;
+    padding: 5px;
+
+}
+
+.footer-heading{
+  text-align: center; 
+
+}
+.footer-para {
+   text-align: center; 
+   padding:4px;
+   margin:10px; 
+}
+
+.social-left{
+    padding: 3px;
+    margin-left: 170px;
+}
+.social-right{
+    padding:3px;
+    margin-left:170px;
+    
+}
+H4{
+    margin-right:50px;
+}
+
+a{
+    color:white;
+    
+}
+i{
+    margin-left: 3px;
+}
+.Sociallink-hr{
+    background-color:white;
+    height:2px;
+    width:130px;
+    margin-left:0;
+    margin-top:-5px;
+}
+.Directcontact-hr{
+  background-color:white;
+    height:2px;
+    width:160px;
+    margin-left:0;
+    margin-top:-5px;  
+}
+.end{
+    background-color:#566573;
+    color:white;
+    width:100%;
+    text-align:center;
+    padding-top: 1px;
+    padding-bottom: 2px;
+
+}
+
+.footer-hr{
+	width: 100%;
+	height: 2px;
+	background-color:#fff;
+}
+
+.hrdiv{
+	padding: 1px;
+}

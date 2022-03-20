@@ -1,0 +1,189 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.navbar-brand{
+	padding-left: 25px;
+}
+
+.signuplogin{
+	margin-left: 920px;
+}
+
+li a {
+	font-size: 17px;
+} 
+.navbar{
+	padding: 0 !important;
+	background-color: #26A9E0;
+}
+
+#navbar{
+	position: sticky;
+	top: 0;
+	z-index: 10;
+}
+.navbar-nav li{
+	padding: 0 5px;
+} 
+
+.navbar-nav li a{
+      color: #fff !important;
+	  font-weight: 600px;
+
+}
+/*-------------------------Profile body--------------------*/
+
+#profile .jumbotron{
+    text-align: center;
+    text-decoration: wavy;
+    text-transform: uppercase;
+    text-shadow: 1px 1px #566573;
+    height: 280px;
+	background-image: linear-gradient(to right,#67AAE7,#26A9E0);
+
+   
+   
+}
+#profile .jumbotron h1{
+    align-items: center;
+    margin-top: 50px
+}
+
+ #profile img{
+
+height: 170px;
+width: 200px;
+display: block;
+margin: 0 auto 0 auto;
+
+}
+
+
+#profile .profileinfo {
+  display:  block;
+  text-align: center;
+ /* margin: 0 auto 0 auto;*/
+ margin-right: 100px;
+ 
+}
+
+#profile .portfolioportion label{
+   font-weight: 600;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   padding: 5px;
+}
+
+.portfolioportion .profileusername{
+  text-align: center;
+  color: blue;
+  margin-top: 15px;
+  margin-bottom: 10px;
+
+}
+
+/*---------Username & Score Table--------------------*/
+
+ #profile .scoretable{
+  border: 2px solid black;
+  text-align: center;
+  margin-top: 20px;
+  width: 30%;
+  margin: 0 auto 0 auto;
+  margin-bottom: 15px;
+
+
+ }
+
+ .scoretable th{
+   border: 2px solid black;
+  text-align: center;
+  color: blue;
+ 
+ }
+ .scoretable td{
+   border: 2px solid black;
+  text-align: center;
+  
+
+ }
+
+
+
+
+
+/* ----------------Footer------------------------------ */
+#footer{
+    background-color: #040404 ;
+    color: white;
+    padding: 5px;
+
+
+}
+
+.footer-heading{
+  text-align: center; 
+
+}
+.footer-para {
+   text-align: center; 
+   padding:4px;
+   margin:10px; 
+}
+
+.social-left{
+    padding: 3px;
+    margin-left: 170px;
+}
+.social-right{
+    padding:3px;
+    margin-left:170px;
+    
+}
+H4{
+    margin-right:50px;
+}
+
+a{
+    color:white;
+    
+}
+i{
+    margin-left: 3px;
+}
+.Sociallink-hr{
+    background-color:white;
+    height:2px;
+    width:130px;
+    margin-left:0;
+    margin-top:-5px;
+}
+.Directcontact-hr{
+  background-color:white;
+    height:2px;
+    width:160px;
+    margin-left:0;
+    margin-top:-5px;  
+}
+.end{
+    background-color:#566573;
+    color:white;
+    width:100%;
+    text-align:center;
+    padding-top: 1px;
+    padding-bottom: 2px;
+
+}
+
+.footer-hr{
+	width: 100%;
+	height: 2px;
+	background-color:#fff;
+}
+
+.hrdiv{
+	padding: 1px;
+}
+

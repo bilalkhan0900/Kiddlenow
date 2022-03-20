@@ -1,0 +1,65 @@
+*{
+    margin:0;
+    
+}
+#footer{
+    background-color: #040404 ;
+    color: white;
+    padding: 5px;
+
+}
+
+.footer-heading{
+  text-align: center; 
+
+}
+.footer-para {
+   text-align: center; 
+   padding:4px;
+   margin:10px; 
+}
+
+.social-left{
+    padding: 3px;
+    margin-left: 170px;
+}
+.social-right{
+    padding:3px;
+    margin-left:170px;
+    
+}
+H4{
+    margin-right:50px;
+}
+
+a{
+    color:white;
+    
+}
+i{
+    margin-left: 3px;
+}
+.Sociallink-hr{
+    background-color:white;
+    height:2px;
+    width:130px;
+    margin-left:0;
+    margin-top:-5px;
+}
+.Directcontact-hr{
+  background-color:white;
+    height:2px;
+    width:160px;
+    margin-left:0;
+    margin-top:-5px;  
+}
+.end{
+    background-color:#566573;
+    color:white;
+    width:100%;
+    text-align:center;
+    padding-top: 2px;
+    padding-bottom: 2px;
+
+}
+
